@@ -4,7 +4,7 @@
 ;              performing correlation studies, and saving
 ;              results in a modular format.
 ;
-; Author: Open-Source Community Version by Srinjana et al. (2025)
+; Author: Open-Source Community Version by Routh et al. (2025)
 ; GitHub: https://github.com/Srin-odot/Image-Correlation
 ;==================================================
 
