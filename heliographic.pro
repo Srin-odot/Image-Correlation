@@ -5,7 +5,7 @@
 ;              results in a modular format.
 ;
 ; Author: Open-Source Community Version by Routh et al. (2024)
-; GitHub: https://github.com/Srin-odot/Image-Correlation
+; GitHub: https://github.com/srinjana-routh/Image-Correlation
 ;==================================================
 
 function heliographic, data,header
