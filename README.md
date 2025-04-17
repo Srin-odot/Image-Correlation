@@ -115,6 +115,7 @@ Srinjana Routh
   note         = {Manuscript in preparation. To be submitted to Astronomy and Astrophysics Letters, 2025},
   year         = {2025}
 }
+
 @ARTICLE{Routh2024,
        author = {{Routh}, Srinjana and {Jha}, Bibhuti Kumar and {Mishra}, Dibya Kirti and {Van Doorsselaere}, Tom and {Pant}, Vaibhav and {Chatterjee}, Subhamoy and {Banerjee}, Dipankar},
         title = "{Exploring the Dynamic Rotational Profile of the Hotter Solar Atmosphere: A Multiwavelength Approach Using SDO/AIA Data}",
