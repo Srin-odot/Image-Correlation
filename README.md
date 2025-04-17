@@ -87,8 +87,8 @@ This tool processes time-series solar FITS files, converts them to heliographic 
      - Time difference ≤ 1.25 days
      - Both images have the same observation frequency
 
-6. **(Placeholder for Analysis)**:
-   - Once validated, the images are ready for further analysis like:
+6. **Analysis**:
+   - Once validated, the images disk masked and projected to heliographic grid , using heliographic.pro and are ready for further analysis like:
      - Longitudinal drift (φ)
      - Rotation (ω)
      - Y-shift
