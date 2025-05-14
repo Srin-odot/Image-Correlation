@@ -1,8 +1,7 @@
 ;==================================================
-; Program: image_correlation.pro
+; Program: heliographic.pro
 ; Description: Generalized tool for projecting disk masked data to heliographic grid of 1800 x 1800, originally created for Nobeyama Dataset,
-;              performing correlation studies, and saving
-;              results in a modular format.
+;              for performing correlation studies.
 ;
 ; Author: Open-Source Community Version by Routh et al. (2024)
 ; GitHub: https://github.com/srinjana-routh/Image-Correlation
